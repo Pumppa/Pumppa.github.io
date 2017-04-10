@@ -1,0 +1,35 @@
+{
+  "name": "temporal",
+  "version": "1.0.0",
+  "description": "Jekyll content for github, houses personal website mockup",
+  "main": "index.js",
+  "dependencies": {
+    "grunt": "^1.0.1"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-less": "^1.4.1",
+    "grunt-contrib-uglify": "^2.3.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "jit-grunt": "^0.10.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pumppa/Pumppa.github.io.git"
+  },
+  "keywords": [
+    "jekyll",
+    "temporal",
+    "personal"
+  ],
+  "author": "Tommi Martin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pumppa/Pumppa.github.io/issues"
+  },
+  "homepage": "https://github.com/Pumppa/Pumppa.github.io#readme"
+}
